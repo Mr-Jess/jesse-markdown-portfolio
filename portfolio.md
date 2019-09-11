@@ -38,7 +38,7 @@ Bronx Community College - *Bronx, NY*
 
 * `AS` in Computer Science
 
-Code Immersives - Manhattan, NY
+Code Immersives - *Manhattan, NY*
 
 * Terminal
 * HTML
