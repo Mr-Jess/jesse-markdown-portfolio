@@ -28,7 +28,7 @@ Aerospace Welder / Non-Destructive Inspector / Safety Program Manager
 Marine Corps - *Beaufort, SC*
 
 * Safety program management of aviation safety programs and personnel.
-* Aerospace welding and collateral duty inspection experience; skilled understanding of the usage of mechanical machinery and the
+* Aerospace welding and collateral duty inspection experience; skilled understanding of the usage of computerized machinery.
 * On the job training included practical exercises, discussions, classroom exercises, and computer-based training.
 * Deployed to Iwakuni, Japan under the Marine Aviation Logistic Squadron for 12 months total.
 
@@ -55,4 +55,3 @@ Code Immersives - *Manhattan, NY*
 4. Photoshop
 
 ![Image of Cat](https://octodex.github.com/images/yaktocat.png)
-
