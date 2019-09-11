@@ -50,7 +50,7 @@ Code Immersives - Manhattan, NY
 ## `Hobbies`
 
 1. Computer Gaming
-2. Streaming on [**Twitch**](twitch.tv/mr_jess) gaming live interacting with the chat and subscribers.
+2. Streaming on [**Twitch**](http://twitch.tv/mr_jess) gaming live interacting with the chat and subscribers.
 3. Garage Band & Pro-Tools
 4. Photoshop
 
