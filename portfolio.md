@@ -38,11 +38,21 @@ Bronx Community College - *Bronx, NY*
 
 * `AS` in Computer Science
 
+Code Immersives - Manhattan, NY
+
+* Terminal
+* HTML
+* Markdown
+* BASH
+* GIT / [**GitHub**](https://github.com/Mr-Jess)
+* Javascript
+
 ## `Hobbies`
 
 1. Computer Gaming
-2. Stream Twitch gaming live while playing, interacting with the chat and subscribers.
+2. Streaming on [**Twitch**](twitch.tv/mr_jess) gaming live interacting with the chat and subscribers.
+3. Garage Band & Pro-Tools
+4. Photoshop
 
-## `Projects`
-
+![Image of Cat](https://octodex.github.com/images/yaktocat.png)
 
